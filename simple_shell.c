@@ -4,8 +4,8 @@
  * main - program that runs a simple UNIX command line interpreter
  * The prompt is displayed again each time a command has been executed
  * we will use execve(), fork() and wait() functions
- * @argc: number of arguments passed
- * @argv: string of arguments passed
+ *
+ *
  *
  * Return: Always 0.
  */
